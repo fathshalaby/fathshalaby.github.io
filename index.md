@@ -25,9 +25,9 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-<object type="image/svg+xml" data="sample.svg"></object>
+<object type="image/svg+xml" data="assets/sample.svg"></object>
 
-![Image](sample.svg)
+![Image](assets/sample.svg)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
