@@ -25,10 +25,22 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-<embed src="assets/sample.svg" />
+## Embeeding SVG
+________________________________________________________________________________________________________________________
+  <body>
+    <embed src="happy.svg" />
+  </body>
+  
+
+## SVG as Object
+________________________________________________________________________________________________________________________
 <object type="image/svg+xml" data="assets/sample.svg"></object>
 
+
+## SVG as Image
+________________________________________________________________________________________________________________________
 ![Image](assets/sample.svg)
+________________________________________________________________________________________________________________________
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
