@@ -25,6 +25,7 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+<embed src="assets/sample.svg" />
 <object type="image/svg+xml" data="assets/sample.svg"></object>
 
 ![Image](assets/sample.svg)
