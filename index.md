@@ -28,7 +28,7 @@ Syntax highlighted code block
 ## Embeeding SVG
 ________________________________________________________________________________________________________________________
   <body>
-    <embed src="happy.svg" />
+    <embed src="assets/sample.svg" />
   </body>
   
 
