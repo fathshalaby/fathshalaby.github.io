@@ -25,9 +25,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+## Interactive svg Plot as html object
 _____________________________________________________________________________________________
 <object type="image/svg+xml" data="sample.svg"></object>
 ______________________________________________________________________________________________
+## Non interactive as Image 
 ![Image](sample.svg)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
