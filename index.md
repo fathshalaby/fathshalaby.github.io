@@ -27,16 +27,16 @@ Syntax highlighted code block
 ```
 ## Interactive svg Plot as html iframe
 _____________________________________________________________________________________________
-<iframe src="image.svg"></iframe>
+<iframe src="assets/image.svg"></iframe>
 _____________________________________________________________________________________________
 
 ## Interactive svg Plot as html object
 _____________________________________________________________________________________________
 
-<object type="image/svg+xml" data="sample.svg"></object>
+<object type="image/svg+xml" data="assets/sample.svg"></object>
 ______________________________________________________________________________________________
-## Non interactive as Image 
-![Image](sample.svg)
+## Non interactive as Image
+![Image](assets/sample.svg)
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
