@@ -27,13 +27,16 @@ Syntax highlighted code block
 ```
 ## Interactive svg Plot as html iframe
 _____________________________________________________________________________________________
-<iframe src="assets/image.svg"></iframe>
+<body>
+  <iframe src="assets/image.svg"></iframe>
+</body>
 _____________________________________________________________________________________________
 
 ## Interactive svg Plot as html object
 _____________________________________________________________________________________________
-
+<img>
 <object type="image/svg+xml" data="assets/sample.svg"></object>
+</img>
 ______________________________________________________________________________________________
 ## Non interactive as Image
 ![Image](assets/sample.svg)
