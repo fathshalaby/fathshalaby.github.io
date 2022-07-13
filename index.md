@@ -25,8 +25,14 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+## Interactive svg Plot as html iframe
+_____________________________________________________________________________________________
+<iframe src="image.svg"></iframe>
+_____________________________________________________________________________________________
+
 ## Interactive svg Plot as html object
 _____________________________________________________________________________________________
+
 <object type="image/svg+xml" data="sample.svg"></object>
 ______________________________________________________________________________________________
 ## Non interactive as Image 
